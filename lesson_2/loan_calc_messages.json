@@ -1,0 +1,8 @@
+{
+  "welcome" : "Welcome to the Loan Calculator!",
+  "loanA" : "Please enter your loan amount without any $'s or commas.",
+  "intrestR" : "Please enter your intrest rate as a decimal. Example 6% = .06 ",
+  "loanD" : "What is your loan duration in moths?",
+  "notvalid" : "Hmm... that doesn't look like a valid number.",
+  "again" : "Would you like to perfrom another calculation? (y/n) "
+}
